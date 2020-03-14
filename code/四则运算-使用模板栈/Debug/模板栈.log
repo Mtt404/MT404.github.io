@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\hmt\documents\visual studio 2015\projects\模板栈\模板栈\源.cpp(123): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hmt\documents\visual studio 2015\projects\模板栈\模板栈\源.cpp(187): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  模板栈.vcxproj -> C:\Users\HMT\Documents\Visual Studio 2015\Projects\模板栈\Debug\模板栈.exe
+  模板栈.vcxproj -> C:\Users\HMT\Documents\Visual Studio 2015\Projects\模板栈\Debug\模板栈.pdb (Partial PDB)
